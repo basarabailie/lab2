@@ -1,0 +1,30 @@
+{
+  "frizeriiApropiate": [
+    {
+      "nume": "Alana Barbershop",
+      "distanta": "5 km",
+      "rating": 4.5,
+      "imagine": "assets/alana.jpg"
+    },
+    {
+      "nume": "Hertha Barbershop",
+      "distanta": "8 km",
+      "rating": 5.0,
+      "imagine": "assets/hertha.jpg"
+    }
+  ],
+  "frizeriiRecomandate": [
+    {
+      "nume": "Masterpiece Barbershop",
+      "distanta": "12 km",
+      "rating": 5.0,
+      "imagine": "assets/masterpiece.jpg"
+    },
+    {
+      "nume": "Varsity Barbershop",
+      "distanta": "10 km",
+      "rating": 4.8,
+      "imagine": "assets/varsity.jpg"
+    }
+  ]
+}
